@@ -5,7 +5,6 @@
   "editor.fontSize": 20,
   "editor.fontWeight": "600",
   "editor.formatOnSave": true,
-  "editor.minimap.enable": true,
   "editor.minimap.renderCharacters": false,
   "editor.tabSize": 2,
 

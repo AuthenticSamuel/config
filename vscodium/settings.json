@@ -1,0 +1,37 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 20,
+  "editor.fontWeight": "600",
+  "editor.formatOnSave": true,
+  "editor.minimap.enable": true,
+  "editor.minimap.renderCharacters": false,
+  "editor.tabSize": 2,
+
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+
+  "npm.packageManager": "pnpm",
+
+  "typescript.preferences.preferTypeOnlyAutoImports": true,
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.tsdk": "~/.local/share/pnpm/global/5/node_modules/typescript/lib",
+
+  "workbench.colorTheme": "774ec7ad-d6a0-4d9c-b195-2f54d72ab664",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.sideBar.location": "right",
+  "workbench.startupEditor": "none",
+
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.autopep8",
+    "editor.tabSize": 4
+  },
+
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+
+  "cSpell.language": "en,fr,lorem",
+  "cSpell.userWords": ["gitlab"]
+}

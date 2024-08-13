@@ -1,0 +1,21 @@
+[
+  "aaron-bond.better-comments",
+  "usernamehw.errorlens",
+  "PKief.material-icon-theme",
+  "jeanp413.open-remote-ssh",
+  "ms-python.autopep8",
+  "streetsidesoftware.code-spell-checker-british-english",
+  "streetsidesoftware.code-spell-checker",
+  "ms-azuretools.vscode-docker",
+  "unthrottled.doki-theme",
+  "dbaeumer.vscode-eslint",
+  "streetsidesoftware.code-spell-checker-french",
+  "eamodio.gitlens",
+  "esbenp.prettier-vscode",
+  "YoavBls.pretty-ts-errors",
+  "Prisma.prisma",
+  "ms-python.python",
+  "ms-python.debugpy",
+  "Supermaven.supermaven",
+  "bradlc.vscode-tailwindcss"
+]
